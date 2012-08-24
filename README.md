@@ -1,4 +1,4 @@
-reports
+Reports
 =======
 
-Various summaries and reports for Perl 6 stuff
+Various summaries and reports for Perl 6 stuff.
